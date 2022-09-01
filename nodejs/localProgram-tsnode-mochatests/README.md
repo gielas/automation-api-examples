@@ -1,9 +1,9 @@
-# Deploy a S3 website using Automation API
+# Deploy a static website using Automation API
 
 ## Requirements
 
 1. Pulumi CLI installed ([v3.0.0](https://www.pulumi.com/docs/get-started/install/versions/) or later)
-1. AWS CLI with appropriate credentials set up
+1. Azure CLI with appropriate credentials set up
 
 ## To run tests
 
